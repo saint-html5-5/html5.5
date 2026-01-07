@@ -6,7 +6,7 @@
 
 FROM_NAME="Business Solutions"
 FROM_EMAIL="noreply@amazon.com"
-SUBJECT="Upgrade Your Business Video Presence"
+SUBJECT="Turn Any Backyard Into a Boardroom"
 
 HTML_FILE="offer.html"
 LIST="all.txt"
