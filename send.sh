@@ -6,7 +6,7 @@
 
 FROM_NAME="Business Solutions"
 FROM_EMAIL="noreply@amazon.com"
-SUBJECT="Turn Any Backyard Into a Boardroom"
+SUBJECT="Avoid Emergency Ink Runs — Stock Smarter"
 
 HTML_FILE="offer.html"
 LIST="all.txt"
