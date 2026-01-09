@@ -4,9 +4,9 @@
 # Automated Mail Sender
 # =========================
 
-FROM_NAME="Business Solutions"
+FROM_NAME="Amazon Hunter Original"
 FROM_EMAIL="noreply@amazon.com"
-SUBJECT="Avoid Emergency Ink Runs — Stock Smarter"
+SUBJECT="Hunter Original: The last pair of boots you'll ever buy"
 
 HTML_FILE="offer.html"
 LIST="all.txt"
